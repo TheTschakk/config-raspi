@@ -12,7 +12,6 @@ fakeroot
 file
 filesystem
 findutils
-firmware-raspberrypi
 gawk
 gcc
 gcc-libs
@@ -28,7 +27,7 @@ iputils
 jfsutils
 less
 licenses
-linux-aarch64
+linux-raspberrypi
 logrotate
 lvm2
 man-db
@@ -46,10 +45,10 @@ perl
 procps-ng
 psmisc
 python
-python-gpiozero
 python-pip
-python-raspberry-gpio
 raspberrypi-bootloader
+raspberrypi-bootloader-x
+raspberrypi-firmware
 reiserfsprogs
 rxvt-unicode-terminfo
 s-nail
@@ -61,7 +60,6 @@ systemd-sysvcompat
 tar
 texinfo
 tmux
-uboot-raspberrypi
 usbutils
 util-linux
 vi
