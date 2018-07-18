@@ -24,4 +24,3 @@ function cd() {
 
 PS1='[\[\e[00;31m\]\u\[\e[00;32m\]@\[\e[00;34m\]\h\[\e[00;00m\]] \W\$ '
 
-setxkbmap de
